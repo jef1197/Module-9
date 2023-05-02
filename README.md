@@ -6,13 +6,15 @@ This is the Module 9 Challenge for the boot camp. The code was made from scratch
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![Video Demonstration]](./utils/module9.mp4)
 
 ## Usage
 
 1. Open Terminal and run scipt using 'node index,js'
 2. Answer all the promts 
 3. Once all promts have been answer README will be generated
+
+https://user-images.githubusercontent.com/48005017/235578089-75322e7d-5c25-4bd2-b5f0-e35952220a01.mp4
+
 
 ## License
  
